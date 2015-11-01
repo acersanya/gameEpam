@@ -1,4 +1,7 @@
 package ua.epam.test;
+/**
+ * @author acersanya
+ */
 
 public class Test {
 
